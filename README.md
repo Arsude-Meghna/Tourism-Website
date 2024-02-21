@@ -1,3 +1,9 @@
+![Screenshot (16)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/f6d5feb6-07ba-4a86-9867-b7a40c450626)
+![Screenshot (17)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/160e40a9-2807-4f76-9c78-da22fe419d1c)
+![Screenshot (15)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/e1c5b0e6-207e-4d0f-9ace-ae1d241e52ac)
+![Screenshot (12)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/a15cbe9f-f21c-4e58-a6c6-4d3e83d1252c)
+![Screenshot (9)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/1aa1adc8-101f-4266-9c5d-ab0db01fd0d3)
+![Screenshot (8)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/a160618b-8a7a-4dbb-a391-df7841873d72)
 # Tourism-Website
 It is my final year group project.
 Name of our tourism website is Hawaii Tours. 
