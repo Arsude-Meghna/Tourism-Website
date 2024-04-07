@@ -5,8 +5,8 @@
 ![Screenshot (9)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/1aa1adc8-101f-4266-9c5d-ab0db01fd0d3)
 ![Screenshot (8)](https://github.com/Arsude-Meghna/Tourism-Website/assets/142217783/a160618b-8a7a-4dbb-a391-df7841873d72)
 # Tourism-Website
-It is my final year group project.
-Name of our tourism website is Hawaii Tours. 
+
+Name of this tourism website is Hawaii Tours. 
 Home page:
 Home page of website has logo and navigation bar in header section. 
 Main section is very  engaging and it showcases beautiful images of most popular destinations and best hotels in the world. 
@@ -17,6 +17,10 @@ Service page:
 Service page shows all the services that we provide to our travellers like accomodation, meals, transport and tour manager. 
 Login page :
 Login page has a form that gives two options to user login or register. If anyone is visiting us first time then he has to register himself by choosing register. There is a simple form that contain basic information about user like name, city ,gender and other information. For login it just asks to enter username and password. 
+Rgestration page:
+Registration page has registration form that every user has to fill during his first visit.
+Payment Page:
+Once you book a tour then it redirects you to payment page.It has a payment form where it asks some basic details of user and once you click on submit button all the details get saved successfully in our database.
 Contact us:
 If user wants to contact for any kind of enquiry then they can visit contact us page. They contact us on Instagram or gmail of hawai tours. 
 Our mission is to help  travellers for planning their best trip and provide them a good travelling experience. We are working to make their trip hustle free. 
